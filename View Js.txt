@@ -1,0 +1,8 @@
+View Js
+acrobat DX
+Django
+
+◆立ち上げ方
+仮想環境
+1)pipenv shell
+2)
